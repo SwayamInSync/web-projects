@@ -1,2 +1,2 @@
 # web-projects
-List of all web projects created by Swayam Singh
+Projects and material created/learned during web dev
